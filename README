@@ -1,0 +1,5 @@
+usage: ./region_read -a addr1 addr2 ... addr(n) -c 10
+
+where:
+-a: addrs
+-c: count of registers to read
